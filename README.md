@@ -23,6 +23,7 @@ This is a basic example which shows you how to solve a common problem:
 library(myadvancedcompendium)
 ## basic example code
 ```
+## CONTRIBUTING
 
 ## Code of Conduct
 
@@ -30,7 +31,7 @@ Please note that the myadvancedcompendium project is released with a [Contributo
 
 ## Licenses
 
-**Text and Figures: ** MIT + file LICENSE
+**Text and Figures :** MIT + file LICENSE
 
 **Code :** MIT + file LICENSE
 
