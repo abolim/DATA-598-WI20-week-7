@@ -2,6 +2,7 @@
 # myadvancedcompendium
 
 <!-- badges: start -->
+[![R build status](https://github.com/abolim/myadvancedcompendium/workflows/R-CMD-check/badge.svg)](https://github.com/abolim/myadvancedcompendium/actions)
 <!-- badges: end -->
 
 The goal of myadvancedcompendium is to ...
