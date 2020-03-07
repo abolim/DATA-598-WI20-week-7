@@ -3,6 +3,7 @@
 
 <!-- badges: start -->
 [![R build status](https://github.com/abolim/myadvancedcompendium/workflows/R-CMD-check/badge.svg)](https://github.com/abolim/myadvancedcompendium/actions)
+[![Launch Rstudio Binder](http://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/abolim/myadvancedcompendium/master?urlpath=rstudio)
 <!-- badges: end -->
 
 The goal of myadvancedcompendium is to ...
