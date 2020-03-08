@@ -13,10 +13,6 @@
 #   Check Package:             'Ctrl + Shift + E'
 #   Test Package:              'Ctrl + Shift + T'
 
-hello <- function() {
-  print("Hello, world!")
-}
-
 #' Square function
 #'
 #'This function calculates the square of the number provided as an input to the function.
